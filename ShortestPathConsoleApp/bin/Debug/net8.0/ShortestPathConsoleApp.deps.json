@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShortestPathConsoleApp/1.0.0": {
+        "dependencies": {
+          "ShortestPathLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ShortestPathConsoleApp.dll": {}
+        }
+      },
+      "ShortestPathLibrary/1.0.0": {
+        "runtime": {
+          "ShortestPathLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShortestPathConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShortestPathLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ql1ycPPvOgB0yMZfUmGhKAqi2FzJfe7JIecehXZQuRQ=",
+  "Source": "ShortestPathAPI",
+  "BasePath": "_content/ShortestPathAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

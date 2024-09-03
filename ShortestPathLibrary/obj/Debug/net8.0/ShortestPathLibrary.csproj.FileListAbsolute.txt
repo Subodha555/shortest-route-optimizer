@@ -1,0 +1,11 @@
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/bin/Debug/net8.0/ShortestPathLibrary.deps.json
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/bin/Debug/net8.0/ShortestPathLibrary.dll
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/bin/Debug/net8.0/ShortestPathLibrary.pdb
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ShortestPathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ShortestPathLibrary.AssemblyInfoInputs.cache
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ShortestPathLibrary.AssemblyInfo.cs
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ShortestPathLibrary.csproj.CoreCompileInputs.cache
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ShortestPathLibrary.dll
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/refint/ShortestPathLibrary.dll
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ShortestPathLibrary.pdb
+/Users/subodha/personal/projects/Git/dotnetProjs/ShortestPathSolution/ShortestPathLibrary/obj/Debug/net8.0/ref/ShortestPathLibrary.dll
